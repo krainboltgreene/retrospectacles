@@ -1,0 +1,3 @@
+class ChangeItem < Item
+
+end

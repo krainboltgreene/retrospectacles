@@ -1,0 +1,3 @@
+class DidNotWorkItem < Item
+
+end

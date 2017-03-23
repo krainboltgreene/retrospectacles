@@ -1,0 +1,3 @@
+class DidWorkItem < Item
+
+end
